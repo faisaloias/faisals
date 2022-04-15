@@ -375,6 +375,7 @@ a {
 }
 .media__title {
   margin-top: 0;
+  color: #fff;
 }
 .media__body {
   margin: 0 2rem;
